@@ -1,5 +1,5 @@
 #!/bin/bash
 
-python ad.py
-python gfwlist.py
-python build_confs.py
+python3 ad.py
+python3 gfwlist.py
+python3 build_confs.py
